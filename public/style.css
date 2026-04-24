@@ -252,6 +252,11 @@ body {
 main {
   max-width: 34rem;
   margin: auto;
+  padding-bottom: 4rem;
+}
+p.intro {
+  font-size: 1.2rem;
+  font-weight: bold;
 }
 .profile-pic {
   display: block;
